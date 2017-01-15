@@ -33,6 +33,7 @@ Thanks!  :heart:
 
 
 ## Others repos
+
 | Name               | Lastest version                                        |
 | ------------------ |:------------------------------------------------------:|
 | broid-schemas      | [1.0.0](https://github.com/broidhq/broid-schemas)      |
@@ -42,6 +43,7 @@ ___
 
 ## Contributors
 
+[broidy](https://github.com/broidy) our bot ;)
 [killix](https://github.com/killix)
 
 
