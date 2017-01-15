@@ -37,7 +37,7 @@ Thanks!  :heart:
 | Name               | Lastest version                                        |
 | ------------------ |:------------------------------------------------------:|
 | broid-schemas      | [1.0.0](https://github.com/broidhq/broid-schemas)      |
-| broid-helpers      | [1.0.0](https://github.com/broidhq/broid-helpers)      |
+| broid-utils        | [1.0.0](https://github.com/broidhq/broid-utils)        |
 
 ___
 
