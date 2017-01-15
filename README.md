@@ -43,7 +43,7 @@ ___
 
 ## Contributors
 
-[broidy](https://github.com/broidy) our bot ;)
+[broidy](https://github.com/broidy) - our bot ;)
 
 [killix](https://github.com/killix)
 
