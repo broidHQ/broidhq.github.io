@@ -8,7 +8,8 @@ This repo is a place to report bugs, give feedback and share ideas on how we can
 
 [Share your feedback](https://github.com/broidhq/broid-feedback/issues/new)
 
-Thanks!  :heart:
+Thanks! <span style="font-size:200%;color:red;">&hearts;</span>
+
 
 
 ## Messaging services supported
