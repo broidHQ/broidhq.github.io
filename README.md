@@ -8,25 +8,25 @@ This repo is a place to report bugs, give feedback and share ideas on how we can
 
 [Share your feedback](https://github.com/broidhq/broid-feedback/issues/new)
 
-Thanks! <span style="font-size:158%;color:red;">&hearts;</span>
-
+Thanks!  :heart:
 
 
 ## Messaging services supported
 
 | Name        | Lastest version                                      |
 | ----------- |:----------------------------------------------------:|
-| Slack       | [1.0.0](https://github.com/broidhq/broid-slack)      |
-| Twitter     | [1.0.0](https://github.com/broidhq/broid-twitter)    |
-| Viber       | [1.0.0](https://github.com/broidhq/broid-viber)      |
-| Line        | [1.0.0](https://github.com/broidhq/broid-line)       |
-| Callr       | [1.0.0](https://github.com/broidhq/broid-callr)      |
-| Twilio      | [1.0.0](https://github.com/broidhq/broid-twilio)     |
-| Skype       | [1.0.0](https://github.com/broidhq/broid-skype)      |
-| Discord     | [1.0.0](https://github.com/broidhq/broid-discord)    |
-| Messenger   | [1.0.0](https://github.com/broidhq/broid-messenger)  |
-| Telegram    | [1.0.0](https://github.com/broidhq/broid-telegram)   |
-| Kik         | [1.0.0](https://github.com/broidhq/broid-kik)        |
+| Slack       | [1.1.0](https://github.com/broidhq/broid-slack)      |
+| Twitter     | [1.1.0](https://github.com/broidhq/broid-twitter)    |
+| Viber       | [1.1.0](https://github.com/broidhq/broid-viber)      |
+| Line        | [1.1.0](https://github.com/broidhq/broid-line)       |
+| Callr       | [1.1.0](https://github.com/broidhq/broid-callr)      |
+| Twilio      | [1.1.0](https://github.com/broidhq/broid-twilio)     |
+| Skype       | [1.1.0](https://github.com/broidhq/broid-skype)      |
+| Discord     | [1.1.0](https://github.com/broidhq/broid-discord)    |
+| Messenger   | [1.1.0](https://github.com/broidhq/broid-messenger)  |
+| Telegram    | [1.1.0](https://github.com/broidhq/broid-telegram)   |
+| Kik         | [1.1.0](https://github.com/broidhq/broid-kik)        |
+| Flowdock              | [1.0.0](https://github.com/broidhq/broid-flowdock)    |
 | IRC                   | Coming - [issue#12](https://github.com/broidHQ/feedhack/issues/12)   |
 | Email                 | Coming - [issue#13](https://github.com/broidHQ/feedhack/issues/13)   |
 | Alexa                 | Coming - [issue#10](https://github.com/broidHQ/feedhack/issues/10)   |
@@ -41,8 +41,8 @@ Thanks! <span style="font-size:158%;color:red;">&hearts;</span>
 
 | Name               | Lastest version                                        |
 | ------------------ |:------------------------------------------------------:|
-| broid-schemas      | [1.0.2](https://github.com/broidhq/broid-schemas)      |
-| broid-utils        | [1.0.3](https://github.com/broidhq/broid-utils)        |
+| broid-schemas      | [1.1.0](https://github.com/broidhq/broid-schemas)      |
+| broid-helpers      | [1.0.4](https://github.com/broidhq/broid-helpers)      |
 
 ___
 
