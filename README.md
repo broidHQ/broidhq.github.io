@@ -2,7 +2,9 @@
 <img alt="Broid.ai" width="500" src="https://cloud.githubusercontent.com/assets/22947293/22179714/e63879ca-e029-11e6-9234-d317a0ae57a2.png">
 </p>
 
-Broid is an open source project. Broid wouldn't be where it is now without contributions by the community. Please consider forking Broid to improve, enhance or fix issues. If you feel like the community will benefit from your fork, please open a pull request on the corresponding repo.
+Broid _Parsers_ is an **open source project** providing a suite of [Activity Streams 2](https://www.w3.org/TR/activitystreams-core/) libraries for unified communications among a vast number of communication platforms.
+
+Broid wouldn't be where it is now without contributions by the community. Please consider forking Broid to improve, enhance or fix issues. If you feel like the community will benefit from your fork, please open a pull request on the corresponding repo.
 
 This repo is a place to report bugs, give feedback and share ideas on how we can improve [Broid](http://www.broid.ai).
 
@@ -15,18 +17,18 @@ Thanks!  :heart:
 
 | Name        | Lastest version                                      |
 | ----------- |:----------------------------------------------------:|
-| Slack       | [1.1.0](https://github.com/broidhq/broid-slack)      |
-| Twitter     | [1.1.0](https://github.com/broidhq/broid-twitter)    |
-| Viber       | [1.1.0](https://github.com/broidhq/broid-viber)      |
-| Line        | [1.1.0](https://github.com/broidhq/broid-line)       |
-| Callr       | [1.1.0](https://github.com/broidhq/broid-callr)      |
-| Twilio      | [1.1.0](https://github.com/broidhq/broid-twilio)     |
-| Skype       | [1.1.0](https://github.com/broidhq/broid-skype)      |
-| Discord     | [1.1.0](https://github.com/broidhq/broid-discord)    |
-| Messenger   | [1.1.0](https://github.com/broidhq/broid-messenger)  |
-| Telegram    | [1.1.0](https://github.com/broidhq/broid-telegram)   |
-| Kik         | [1.1.0](https://github.com/broidhq/broid-kik)        |
-| Flowdock              | [1.0.0](https://github.com/broidhq/broid-flowdock)    |
+| Slack       | [1.1.1](https://github.com/broidhq/broid-slack)      |
+| Twitter     | [1.1.1](https://github.com/broidhq/broid-twitter)    |
+| Viber       | [1.1.1](https://github.com/broidhq/broid-viber)      |
+| Line        | [1.1.1](https://github.com/broidhq/broid-line)       |
+| Callr       | [1.1.1](https://github.com/broidhq/broid-callr)      |
+| Twilio      | [1.1.1](https://github.com/broidhq/broid-twilio)     |
+| Skype       | [1.1.1](https://github.com/broidhq/broid-skype)      |
+| Discord     | [1.1.1](https://github.com/broidhq/broid-discord)    |
+| Messenger   | [1.1.1](https://github.com/broidhq/broid-messenger)  |
+| Telegram    | [1.1.1](https://github.com/broidhq/broid-telegram)   |
+| Kik         | [1.1.1](https://github.com/broidhq/broid-kik)        |
+| Flowdock              | [1.0.1](https://github.com/broidhq/broid-flowdock)    |
 | IRC                   | Coming - [issue#12](https://github.com/broidHQ/feedhack/issues/12)   |
 | Email                 | Coming - [issue#13](https://github.com/broidHQ/feedhack/issues/13)   |
 | Alexa                 | Coming - [issue#10](https://github.com/broidHQ/feedhack/issues/10)   |
@@ -41,8 +43,8 @@ Thanks!  :heart:
 
 | Name               | Lastest version                                        |
 | ------------------ |:------------------------------------------------------:|
-| broid-schemas      | [1.1.0](https://github.com/broidhq/broid-schemas)      |
-| broid-helpers      | [1.0.4](https://github.com/broidhq/broid-helpers)      |
+| broid-schemas      | [1.1.1](https://github.com/broidhq/broid-schemas)      |
+| broid-utils        | [1.0.5](https://github.com/broidhq/broid-utils)      |
 
 ___
 
